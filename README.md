@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jill Pandya
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Vue js and Vuetify
 - 💞️ I’m looking to collaborate on Creating websites
 - 📫 You can reach me via my twitter handle.
 
